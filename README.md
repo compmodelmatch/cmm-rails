@@ -1,2 +1,2 @@
 # cmm-rails
-This is a ruby on rails application for comp model match
+This the test repository that uses for compmodelmatch that uses ruby on rails
